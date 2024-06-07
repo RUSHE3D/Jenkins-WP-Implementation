@@ -1,1 +1,1 @@
-Para lanzamiento automatico de tu servicio de WP y implementacion de CD/CI
+For automatic launch of your WP service and CD/CI implementation
